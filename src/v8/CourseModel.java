@@ -1,3 +1,5 @@
+package v8;
+
 public class CourseModel {
     private String name;
     private int students;

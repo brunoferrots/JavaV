@@ -1,3 +1,5 @@
+package v8;
+
 import java.util.function.Consumer;
 
 public class PrintInLine implements Consumer<String> {
