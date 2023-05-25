@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5506a9ba-e84e-4ef3-9936-0a061db76efb" name="Changes" comment="Insert package reflection and thread" />
+    <list default="true" id="5506a9ba-e84e-4ef3-9936-0a061db76efb" name="Changes" comment="Insert package reflection and thread">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +48,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.thread.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="reflection.Main" />
       <module name="JavaV" />
@@ -75,8 +77,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.thread.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.thread.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -90,7 +92,7 @@
       <updated>1684612257655</updated>
       <workItem from="1684612258652" duration="4156000" />
       <workItem from="1684948224442" duration="11000" />
-      <workItem from="1685017521933" duration="3957000" />
+      <workItem from="1685017521933" duration="5212000" />
     </task>
     <task id="LOCAL-00001" summary="Insert package reflection and thread">
       <created>1685033205623</created>
@@ -99,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685033205623</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Insert package reflection and thread">
+      <created>1685033353684</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685033353684</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
