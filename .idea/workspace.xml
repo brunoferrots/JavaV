@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5506a9ba-e84e-4ef3-9936-0a061db76efb" name="Changes" comment="Insert package reflection and thread">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v914/FactoryMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v914/TextBlocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +35,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectId" id="2Q4UH152QVHdb9vlzh0pOPCFw0v" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -38,6 +47,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -48,13 +58,39 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.TextBlocks">
+    <configuration name="FactoryMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v914.FactoryMethod" />
+      <module name="JavaV" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="v914.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="reflection.Main" />
       <module name="JavaV" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="reflection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextBlocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v914.TextBlocks" />
+      <module name="JavaV" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="v914.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,6 +113,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TextBlocks" />
+        <item itemvalue="Application.FactoryMethod" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.thread.Main" />
       </list>
@@ -93,6 +131,8 @@
       <workItem from="1684612258652" duration="4156000" />
       <workItem from="1684948224442" duration="11000" />
       <workItem from="1685017521933" duration="5212000" />
+      <workItem from="1686152969131" duration="673000" />
+      <workItem from="1686153790696" duration="1402000" />
     </task>
     <task id="LOCAL-00001" summary="Insert package reflection and thread">
       <created>1685033205623</created>
